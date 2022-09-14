@@ -1,2 +1,2 @@
-# Junior Software Developer 
-## JavaScript | React | Python
+## Junior Software Developer 
+### JavaScript | React | Python
