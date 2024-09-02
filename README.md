@@ -1,6 +1,8 @@
 ## Junior Software Developer 
 
 ### My deployed projects
+###### [Webcam monitoring](https://github.com/Pea75x/webcam-monitoring-email-alert-app) - Python, OpenCV
+###### [Python PDF Generation](https://github.com/Pea75x/python-pdf-generation) - Python, FPDF library
 ###### [eCommerce Website](https://github.com/Pea75x/E-commerce_website)- React, Redux, Firebase, Jest, TypeScript, Stripe
 ###### [Bag Factory](https://github.com/Pea75x/backpack-project) - Python, React, Redux, Sass, Django, PostgreSQL
 ###### [Festival App](https://github.com/Pea75x/project-4-frontend) - Python, React, Redux, Sass, Django, PostgreSQL
