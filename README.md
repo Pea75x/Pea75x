@@ -1,6 +1,8 @@
 ## Junior Software Developer 
 
 ### My deployed projects
+###### [Spanish project - Backend](https://github.com/Pea75x/spanish-project-ruby) - Ruby on Rails, Rspec, continuous integration
+###### [Spanish project - Frontend](https://github.com/Pea75x/spanish-project-react) - React, Axios, Jest
 ###### [Webcam monitoring](https://github.com/Pea75x/webcam-monitoring-email-alert-app) - Python, OpenCV
 ###### [Python PDF Generation](https://github.com/Pea75x/python-pdf-generation) - Python, FPDF library
 ###### [eCommerce Website](https://github.com/Pea75x/E-commerce_website)- React, Redux, Firebase, Jest, TypeScript, Stripe
