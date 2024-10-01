@@ -1,4 +1,4 @@
-## Junior Software Developer 
+## Full Stack Developer 
 
 ### My deployed projects
 ###### [Spanish project - Backend](https://github.com/Pea75x/spanish-project-ruby) 🇪🇸 - Ruby on Rails, Rspec, continuous integration, Rack attack, Sidekiq
