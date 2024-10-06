@@ -1,6 +1,7 @@
 ## Full Stack Developer 
 
 ### My deployed projects
+###### [Hotwire project - Checklist](https://github.com/Pea75x/hotwire-checklist)✅ - Ruby, Turbo, Stimulus
 ###### [Spanish project - Backend](https://github.com/Pea75x/spanish-project-ruby) 🇪🇸 - Ruby on Rails, Rspec, continuous integration, Rack attack, Sidekiq
 ###### [Spanish project - Frontend](https://github.com/Pea75x/spanish-project-react) 🇲🇽 - React, Axios, Jest, Tailwind CSS, Redux
 ###### [Webcam monitoring](https://github.com/Pea75x/webcam-monitoring-email-alert-app) 📹 - Python, OpenCV
