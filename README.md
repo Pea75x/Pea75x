@@ -8,10 +8,15 @@
 ###### [Hotwire checklist project](https://github.com/Pea75x/hotwire-checklist) ✅ - Ruby, Turbo, Stimulus
 ###### [Spanish project - Backend](https://github.com/Pea75x/spanish-project-ruby) 🇪🇸 - Ruby on Rails, Rspec, continuous integration, Rack attack, Sidekiq
 
+<img src="https://github.com/user-attachments/assets/172a0c7a-2806-476e-b233-9b4636813718" alt='spanish-project' width="200" />
+
 #### Javascript Projects
 ###### [Spanish project - Frontend](https://github.com/Pea75x/spanish-project-react) 🇲🇽 - React, Axios, Jest, Tailwind CSS, Redux
 ###### [eCommerce Website](https://github.com/Pea75x/E-commerce_website) 🛍️ - React, Redux, Firebase, Jest, TypeScript, Stripe
 ###### [Bag Factory](https://github.com/Pea75x/backpack-project) 🎒 - Python, React, Sass, Django, PostgreSQL
+
+<img src="https://github.com/user-attachments/assets/8d500378-2a0c-4309-91b8-f08c26a78804" alt='bag-factory' width="400" />
+
 ###### [Festival App](https://github.com/Pea75x/project-4-frontend) 💃 - Python, React, Sass, Django, PostgreSQL
 ###### [The Big Smoke](https://github.com/Pea75x/GA-project-3-frontend) 🏢 - JavaScript, MERN, Sass
 ###### [Harry Potter Sorting Site](https://github.com/Pea75x/project2) 🪄- JavaScript, React, Sass
