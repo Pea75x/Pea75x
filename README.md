@@ -12,7 +12,7 @@
 ###### [Spanish project - Backend](https://github.com/Pea75x/spanish-project-ruby) 🇪🇸 - Ruby on Rails, Rspec, continuous integration, Rack attack, Sidekiq
 
 #### Javascript Projects 
-###### [Spanish project - Frontend](https://github.com/Pea75x/spanish-project-react) 🇲🇽 - React, Axios, Jest, Tailwind CSS, Redux
+###### [Spanish project - Frontend](https://github.com/Pea75x/spanish-project-react) 🇲🇽 - React, Axios, Jest, Tailwind CSS, Redux, continuous integration
 ###### [eCommerce Website](https://github.com/Pea75x/E-commerce_website) 🛍️ - React, Redux, Firebase, Jest, TypeScript, Stripe
 ###### [Bag Factory](https://github.com/Pea75x/backpack-project) 🎒 - Python, React, Sass, Django, PostgreSQL
 
