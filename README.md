@@ -3,7 +3,7 @@
 
 ### My deployed projects
 
-<img align='right' src="https://github.com/user-attachments/assets/172a0c7a-2806-476e-b233-9b4636813718" alt='spanish-project' width="250" />
+<img align='right' src="https://github.com/user-attachments/assets/172a0c7a-2806-476e-b233-9b4636813718" alt='spanish-project' width="300" />
 
 #### Ruby Projects
 ###### [Hotwire contacts](https://github.com/Pea75x/hotwire-searchfilter) 🙋‍♀️ - Ruby, Turbo, Stimulus
