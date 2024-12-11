@@ -16,11 +16,12 @@
 ###### [eCommerce Website](https://github.com/Pea75x/E-commerce_website) 🛍️ - React, Redux, Firebase, Jest, TypeScript, Stripe
 ###### [Bag Factory](https://github.com/Pea75x/backpack-project) 🎒 - Python, React, Sass, Django, PostgreSQL
 
-<img align='right' src="https://github.com/user-attachments/assets/8d500378-2a0c-4309-91b8-f08c26a78804" alt='bag-factory' width="400" />
-
 ###### [Festival App](https://github.com/Pea75x/project-4-frontend) 💃 - Python, React, Sass, Django, PostgreSQL
 ###### [The Big Smoke](https://github.com/Pea75x/GA-project-3-frontend) 🏢 - JavaScript, MERN, Sass
 ###### [Harry Potter Sorting Site](https://github.com/Pea75x/project2) 🪄- JavaScript, React, Sass
+
+<img align='right' src="https://github.com/user-attachments/assets/8d500378-2a0c-4309-91b8-f08c26a78804" alt='bag-factory' width="400" />
+
 ###### [Pirate Petes Jungle Game](https://github.com/Pea75x/GA-project-1/blob/master/README.md) ☠️🌴 - Javascript, CSS, HTML
 ###### [Weather App](https://github.com/Pea75x/Weather-App2) ⛅ - Javascript, CSS, HTML
 
