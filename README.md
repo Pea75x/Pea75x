@@ -19,6 +19,7 @@
 ###### [Festival App](https://github.com/Pea75x/project-4-frontend) 💃 - Python, React, Sass, Django, PostgreSQL
 ###### [The Big Smoke](https://github.com/Pea75x/GA-project-3-frontend) 🏢 - JavaScript, MERN, Sass
 ###### [Harry Potter Sorting Site](https://github.com/Pea75x/project2) 🪄- JavaScript, React, Sass
+###### [Go-Lingo - Connecting places to phrases](https://github.com/Pea75x/go-lingo-fe)🚶‍♀️ - React, Google maps API
 
 <img align='right' src="https://github.com/user-attachments/assets/8d500378-2a0c-4309-91b8-f08c26a78804" alt='bag-factory' width="400" />
 
@@ -31,7 +32,7 @@
 ###### [Bag Factory](https://github.com/Pea75x/backpack-backend) 🎒 - Python, React, Sass, Django, PostgreSQL
 ###### [Festival App](https://github.com/Pea75x/project-4-backend) 💃 - Python, React, Sass, Django, PostgreSQL
 ###### [Event webscraper](https://github.com/Pea75x/python-webscraper) 🤖 - Python, SQLite
-
+###### [Go-Lingo - Connecting places to phrases](https://github.com/Pea75x/go-lingo-be)🚶‍♀️ - Python, Django, FourSquare API
 
 
 
