@@ -30,6 +30,7 @@
 ###### [Python PDF Generation](https://github.com/Pea75x/python-pdf-generation) 🐍 - Python, FPDF library
 ###### [Bag Factory](https://github.com/Pea75x/backpack-backend) 🎒 - Python, React, Sass, Django, PostgreSQL
 ###### [Festival App](https://github.com/Pea75x/project-4-backend) 💃 - Python, React, Sass, Django, PostgreSQL
+###### [Event webscraper](https://github.com/Pea75x/python-webscraper) 🤖 - Python, SQLite
 
 
 
