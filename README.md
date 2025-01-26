@@ -33,6 +33,7 @@
 ###### [Festival App](https://github.com/Pea75x/project-4-backend) 💃 - Python, React, Sass, Django, PostgreSQL
 ###### [Event webscraper](https://github.com/Pea75x/python-webscraper) 🤖 - Python, SQLite
 ###### [Go-Lingo - Connecting places to phrases](https://github.com/Pea75x/go-lingo-be)🚶‍♀️ - Python, Django, FourSquare API
+###### [Job scraping project](https://github.com/Pea75x/job-and-event-project) 🧑‍💻 - Python, Django, BeautifulSoup
 
 
 
