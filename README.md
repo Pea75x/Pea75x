@@ -24,8 +24,8 @@
 
 <img align='right' src="https://github.com/user-attachments/assets/8d500378-2a0c-4309-91b8-f08c26a78804" alt='bag-factory' width="400" />
 
-###### [Pirate Petes Jungle Game](https://github.com/Pea75x/GA-project-1/blob/master/README.md) ☠️🌴 - Javascript, CSS, HTML
-###### [Weather App](https://github.com/Pea75x/Weather-App2) ⛅ - Javascript, CSS, HTML
+###### [Pirate Petes Jungle Game](https://github.com/Pea75x/GA-project-1) ☠️🌴 - Javascript, CSS, HTML
+###### [Typescript notes](https://github.com/Pea75x/Typescript-project) 📝 - React, Typescript
 
 #### Python Projects
 ###### [Webcam monitoring](https://github.com/Pea75x/webcam-monitoring-email-alert-app) 📹 - Python, OpenCV
